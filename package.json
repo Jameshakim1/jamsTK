@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/Gendjex/Token1.git"
   },
-  "author": "Vipro",
+  "author": "Jams",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
